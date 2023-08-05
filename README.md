@@ -1,6 +1,16 @@
 ![Tec de Monterrey](images/logotecmty.png)
 # Ejercicios Básicos!
 
+![Rambo Tiberius Shwarzenegger](images/RTS_Portrait_Small.png)
+
+¡Hola! Soy Rambo T. Shwarzenegger y he acudido a ti para que me ayudes con algunos problemas que tengo que resolver.  Yo soy un genio militar pero, seamos honestos, las computadoras no se me dan porque ¡soy un perro!
+
+A continuación encontrarás algunos problemas con los que me estoy enfrentando y que me tienen detenido.  Si no logro resolverlo, no me darán el presupuesto para comprar las croquetas para alimentar a mi ejército perruno.
+
+Lee detenidamente cada uno de los problemas que se te presentan y genera, para cada uno, una solución computacional (¡un programa en Python, pues!) que nos ayude a resolverlo.
+
+Así que: ¡al ataque! ¡Woof!
+
 - 00 Hello World
 - 01 Operaciones Básicas
 - 02 Área Triángulo
@@ -22,3 +32,4 @@
 - 20 Acertijo Edad
 - 21 Levadura para Pizza
 - 22 Digitos Pares
+
